@@ -1,5 +1,5 @@
 # LLM-Medical-Chatbot
-[WISET] 2024 랭체인과 LLM을 활용한 AI서비스 개발 과정
+"[WISET] 2024 랭체인과 LLM을 활용한 AI서비스 개발 과정" 개인 프로젝트
 
 Step1. Speech To Text, 실시간 text 생성. 의사의 말을 있는 그대로 text로 옮기는 작업. 
 
